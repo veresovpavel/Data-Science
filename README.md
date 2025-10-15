@@ -1,1 +1,1 @@
-Tiis repository contains projects from Yandex Practicum Data Science course
+Tiis repository contains Data Science projects
